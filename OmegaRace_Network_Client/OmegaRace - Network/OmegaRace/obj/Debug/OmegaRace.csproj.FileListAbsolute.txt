@@ -1,0 +1,12 @@
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\OmegaRace.exe.config
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\OmegaRace.exe
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\OmegaRace.pdb
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\AzulCoreCLRDebug.dll
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\Box2DX.dll
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\irrKlang.NET4.dll
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\Lidgren.Network.dll
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\bin\Debug\Box2DX.pdb
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\obj\Debug\OmegaRace.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\obj\Debug\OmegaRace.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\obj\Debug\OmegaRace.exe
+C:\Users\Daniel\Perforce\dgoodrum_DansPC_9999\meyers2018spring_csc486\student\dgoodrum\FinalProject\OmegaRace_Network_Client\OmegaRace - Network\OmegaRace\obj\Debug\OmegaRace.pdb
